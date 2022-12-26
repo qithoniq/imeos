@@ -2,7 +2,7 @@
 
 </p>
 <h1 align="center">
-  <b> meos|سورس ميوس</b>
+  <b> MEOS|سورس ميوس </b>
 </h1>
 
 <h3 align="center">
