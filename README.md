@@ -2,7 +2,7 @@
 
 </p>
 <h1 align="center">
-  <b> MEOS userbot | سورس ميوس</b>
+  <b> meos|سورس ميوس</b>
 </h1>
 
 <h3 align="center">
