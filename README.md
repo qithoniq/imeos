@@ -56,7 +56,7 @@
 * سيكون شكل قاعده البيانات كـالتالي و تبدل كلمة pass مع الباسوورد الذي وضعته وكلمة meos مع اسم القاعدة التي وضعتها 
 -  postgresql://postgres:pass@localhost:5432/meos
 
-- git clone https://github.com/meos/imeos 
+- git clone https://github.com/Devmeos/imeos.git 
 
 - cd imeosNJ
 
