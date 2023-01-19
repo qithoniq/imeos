@@ -111,7 +111,9 @@
     Copyright (C) 2022 <a href="https://github.com/imos">meos</a>
 </h4>
 
-Project [imeos](https://github.com/Devmeos/imeos) is free software: you can redistribute it and/or modify
+Project [imeos](https://github.com/Devmeos/imeo
+
+s) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -125,6 +127,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ---------------------
 ## 
 --------------------------
-# imeos
+# TeAm Babylon
 -------------------------
-https://t.me/meosteam 
+https://t.me/Babylonteam
