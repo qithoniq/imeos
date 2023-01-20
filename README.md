@@ -107,7 +107,7 @@
 
 - API_HASH  =  احصل عليه من هنا https://my.telegram.org
 
-STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com/@ssdcv608/PyroSessionString)
+STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com/@ssdcv608/IMEOS)
 
 - TG_BOT_TOKEN  =  اصنع بوت من بوت فاذر [اضغط هنا](https://t.me/botfather) وانسخ التوكن الخاص به
 
