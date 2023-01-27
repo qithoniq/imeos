@@ -16,7 +16,7 @@ __version__ = "7.6"
 
 __license__ = "GNU Affero General Public License v3.0"
 
-__author__ = "<t.me/iqthon>"
+__author__ = "<t.me/qithon>"
 
 __copyright__ = "telethon AR (C) 2020 - 2021  " + __author__
 
@@ -24,9 +24,9 @@ iqthon.version = __version__
 
 iqthon.tgbot.version = __version__
 
-LOGS = logging.getLogger("IQTHON")
+LOGS = logging.getLogger("qithon")
 
-bot = iqthon
+bot = qithon
 
 StartTime = time.time()
 
@@ -34,7 +34,7 @@ catversion = "7.6"
 
 if Config.UPSTREAM_REPO == "TelethonAr":
 
-    UPSTREAM_REPO_URL = "https://github.com/telethonArab/telethonAr"
+    UPSTREAM_REPO_URL = "https://github.com/BabylonMeos/BabylonMe"
 
 else:
 
