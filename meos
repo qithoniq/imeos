@@ -8,7 +8,7 @@ from .Config import Config
 
 from .core.logger import logging
 
-from .core.session import iqthon
+from .core.session import qithon
 
 from .sql_helper.globals import addgvar, delgvar, gvarstatus
 
@@ -16,15 +16,15 @@ __version__ = "7.6"
 
 __license__ = "GNU Affero General Public License v3.0"
 
-__author__ = "<t.me/iqthon>"
+__author__ = "<t.me/qithon>"
 
-__copyright__ = "telethon AR (C) 2020 - 2021  " + __author__
+__copyright__ =Babylon Me" (C) 2020 -2021  " + __author__
 
 iqthon.version = __version__
 
 iqthon.tgbot.version = __version__
 
-LOGS = logging.getLogger("IQTHON")
+LOGS = logging.getLogger("qithon")
 
 bot = iqthon
 
@@ -32,9 +32,9 @@ StartTime = time.time()
 
 catversion = "7.6"
 
-if Config.UPSTREAM_REPO == "TelethonAr":
+if Config.UPSTREAM_REPO == "BabylonMe":
 
-    UPSTREAM_REPO_URL = "https://github.com/telethonArab/telethonAr"
+    UPSTREAM_REPO_URL = "https://github.com/BabylonMeos/BabyloMe
 
 else:
 
@@ -68,7 +68,7 @@ else:
 
     Config.BOTLOG = True
 
-if Config.PM_LOGGER_GROUP_ID == 0:
+if Config.PM_LOGGER_GROUP_ID ==
 
     if gvarstatus("PM_LOGGER_GROUP_ID") is None:
 
