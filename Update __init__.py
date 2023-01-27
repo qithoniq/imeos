@@ -8,7 +8,7 @@ from .Config import Config
 
 from .core.logger import logging
 
-from .core.session import iqthon
+from .core.session import qithon
 
 from .sql_helper.globals import addgvar, delgvar, gvarstatus
 
@@ -18,7 +18,7 @@ __license__ = "GNU Affero General Public License v3.0"
 
 __author__ = "<t.me/qithon>"
 
-__copyright__ = "telethon AR (C) 2020 - 2021  " + __author__
+__copyright__ =Babylon ME" (C) 2020 - 2021  " + __author__
 
 iqthon.version = __version__
 
@@ -32,7 +32,7 @@ StartTime = time.time()
 
 catversion = "7.6"
 
-if Config.UPSTREAM_REPO == "TelethonAr":
+if Config.UPSTREAM_REPO == "BabylonMeos":
 
     UPSTREAM_REPO_URL = "https://github.com/BabylonMeos/BabylonMe"
 
