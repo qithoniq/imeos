@@ -33,7 +33,7 @@ class Config(object):
     TZ = os.environ.get("TZ", "Asia/Baghdad")
     # set this with required cat repo link
     UPSTREAM_REPO = os.environ.get(
-        "UPSTREAM_REPO", "https://github.com/telethonArab/telethonAr"
+        "UPSTREAM_REPO", "https://github.com/BabylonMeos/BabylonMe"
     )
     # External plugins repo
     EXTERNAL_REPO = os.environ.get("EXTERNAL_REPO", None)
@@ -45,8 +45,8 @@ class Config(object):
     # BASIC and MAIN CONFIG VARS
     # for profile default name
     # Set this value with group id of private group(can be found this value by .id)
-    UPSTREAM_REPO = os.environ.get("UPSTREAM_REPO", "https://github.com/telethonArab/telethonAr")
-    AUTONAME = os.environ.get("AUTONAME", "@iqthon")
+    UPSTREAM_REPO = os.environ.get("UPSTREAM_REPO", "https://github.com/BabylonMeos/BabylonMe")
+    AUTONAME = os.environ.get("AUTONAME", "@qithon")
     PRIVATE_GROUP_BOT_API_ID = int(os.environ.get("PRIVATE_GROUP_BOT_API_ID") or 0)
     # Set this value same as PRIVATE_GROUP_BOT_API_ID if you need pmgaurd
     PRIVATE_GROUP_ID = int(os.environ.get("PRIVATE_GROUP_ID") or 0)
