@@ -34,7 +34,7 @@ catversion = "7.6"
 
 if Config.UPSTREAM_REPO == "BabylonMe":
 
-    UPSTREAM_REPO_URL = "https://github.com/BabylonMeos/BabyloMe
+    UPSTREAM_REPO_URL = "https://github.com/BabylonMeos/BabyloMe"
 
 else:
 
