@@ -34,12 +34,12 @@
 - احصل على الفارات يدويا عبر [الضغط هنا](#الفارات).
 
 - اصنع حساب على منصه هيروكو [اضغط هنا](dashboard.heroku.com)
-
+https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif
 - الان اضغط على الزر بالاسفل للتنصيب
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://dashboard.heroku.com/new?template=https://github.com/thejmthon/jmthon))
 
-<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
+https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif
 
 ## التنصيب محليا 
 
@@ -102,7 +102,7 @@
 * نقوم بالضغط على CTRL+A بعدها نضغط على CTRL+D
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
-[https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif](https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif)
+[https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif]()
 ## الفارات
 
 - APP_ID  =  احصل عليه من هنا https://my.telegram.org
