@@ -11,11 +11,11 @@
 
 </h3
 
-------
+<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
 اسهل طريقة للتنصيب على منصة كويب
 
--------------------------------------
+<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
    اسهل طريقة للتنصيب عبر الضغط على الزر في الاسفل
 
@@ -27,7 +27,9 @@
 
 * ملاحظة: هيروكو ستصبح مدفوعة في تاريخ 28/11/2022
 
-- احصل على فارات تنصيبك اولا واستخرجهم
+-
+<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
+احصل على فارات تنصيبك اولا واستخرجهم
 
 - احصل على الفارات يدويا عبر [الضغط هنا](#الفارات).
 
@@ -115,8 +117,8 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 
 - PRIVATE_GROUP_BOT_API_ID  =   ايدي مجموعة الحفظ
 
-------
 
+<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 ## تحذير هام
 
 - غير مسؤول عن اي عملية حظر بسبب استخدامك الى هذا السورس 
@@ -127,6 +129,6 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 
  
 
---------------------------
+<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
 # TeAm Babylon
