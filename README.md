@@ -103,7 +103,7 @@
 * نقوم بالضغط على CTRL+A بعدها نضغط على CTRL+D
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
-[https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif]()
+[]()
 ## الفارات
 
 - APP_ID  =  احصل عليه من هنا https://my.telegram.org
