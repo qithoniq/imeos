@@ -34,13 +34,14 @@
 - احصل على الفارات يدويا عبر [الضغط هنا](#الفارات).
 
 - اصنع حساب على منصه هيروكو [اضغط هنا](dashboard.heroku.com)
-https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif
+
 - الان اضغط على الزر بالاسفل للتنصيب
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://dashboard.heroku.com/new?template=https://github.com/thejmthon/jmthon))
 
-https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif
 
+
+     
 ## التنصيب محليا 
 
 - sudo apt update && sudo apt upgrade -y
