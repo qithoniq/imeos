@@ -158,7 +158,7 @@ _set_bot () {
 
     "
 
-    python3 -m joker
+    python3 -m babylon meos
 
 }
 
