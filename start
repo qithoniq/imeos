@@ -6,7 +6,7 @@ _get_ziplink () {
 
     regex='(https?)://github.com/.+/.+'
 
-    if [[ $UPSTREAM_REPO == "jepthoniq" ]]
+    if [[ $UPSTREAM_REPO == "qithoniq" ]]
 
     then
 
@@ -44,7 +44,7 @@ _get_repolink () {
 
     regex='(https?)://github.com/.+/.+'
 
-    if [[ $UPSTREAM_REPO == "jepthoniq" ]]
+    if [[ $UPSTREAM_REPO == "qithoniq" ]]
 
     then
 
@@ -78,7 +78,7 @@ _run_catpack_git() {
 
 import sys
 
-OFFICIAL_UPSTREAM_REPO = "https://github.com/jepthoniq/jepthon"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/qithoniq/iqthon.git"
 
 ACTIVE_BRANCH_NAME = "Heroku"
 
@@ -158,7 +158,7 @@ _set_bot () {
 
     "
 
-    python3 -m babylon meos
+    python3 -m babylonmeos
 
 }
 
