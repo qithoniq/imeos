@@ -1,0 +1,18 @@
+$bans = json_decode(file_get_contents('bans.json'),true);
+$sudo = ايديك;
+if (preg_match('/(حظر عام)(.*)/', $text) and $from_id == $sudo) {
+  $text = str_replace('حظر عام', '', $text);
+  $bans[] = trim($text,'@');
+  file_put_contents('bans.json', $text);
+  bot('sendMessage',[
+    'chat_id'=>$chat_id,
+    'text'=>'~> '.$text."\n -  تم حظره عام من جروبات،",
+    'reply_to_message_id'=>$message->message_id
+  ]);
+}
+if ($message and in_array($message->from->username, $bans) or in_array($message->from->id, $bans)) {
+  bot('kickchatmember',[
+    'chat_id'=>$chat_id,
+    'user_id'=>$message->from->id
+  ]);
+}
