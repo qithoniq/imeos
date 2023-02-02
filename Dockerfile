@@ -1,12 +1,12 @@
-FROM qithoniq/qithon:slim-buster
+FROM jepthoniq/jepthon:slim-buster
 
 #clonning repo 
 
-RUN git clone  https://github.com/jepthoniq/jepthon.git
+RUN git clone https://github.com/XTIORY/Flex.git /root/jepthon
 
 #working directory 
 
-WORKDIR /root/qithon
+WORKDIR /root/jepthon
 
 # Install requirements
 
@@ -18,6 +18,6 @@ RUN npm i -g npm
 
 RUN pip3 install --no-cache-dir -r requirements.txt
 
-ENV PATH="/home/babylonmeos/bin:$PATH"
+ENV PATH="/home/joker/bin:$PATH"
 
-CMD ["python3","-m","babylonmeos"]
+CMD ["python3","-m","joker"]
