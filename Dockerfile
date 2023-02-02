@@ -2,7 +2,7 @@ FROM jepthoniq/jepthon:slim-buster
 
 #clonning repo 
 
-RUN git clone https://github.com/XTIORY/Flex.git /root/jepthon
+RUN git clone https://github.com/jepthoniq/jepthon.git /root/jepthon
 
 #working directory 
 
