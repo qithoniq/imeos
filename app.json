@@ -5,8 +5,7 @@
   "description": "اللهم صلِ على محمد وآل محمد",
 
   "logo": "https://telegra.ph/file/867fec83919258d5ad32c.jpg",
-
-  "keywords": [
+"keywords": [
 
     "plugin",
 
@@ -16,7 +15,7 @@
 
   ],
 
-  "repository": "https://github.com/Devmeos/imeos/",
+  "repository": "https://github.com/qithoniq/imeos",
 
   "website": "#TODO",
 
@@ -58,9 +57,29 @@
 
     "STRING_SESSION": {
 
-      "description": "هنا ضع كود سيشن تيليثون كود تيرمكس الخاص بك",
+      "description": "ضع كود التيرمكس",
 
       "value": ""
+
+    },
+
+    "HEROKU_API_KEY": {
+
+      "description": "هنا ضع الايبي كي الخاص بحساب هيروكو من هذا الرابط https://dashboard.heroku.com/account",
+
+      "value": "",
+
+      "required": false
+
+    },
+
+    "HEROKU_APP_NAME": {
+
+      "description": "اسم التطبيق اول مربع كتبته خلي هنا نفسه وحروف صغيره",
+
+      "value": "",
+
+      "required": false
 
     },
 
@@ -82,7 +101,7 @@
 
     "TZ": {
 
-      "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
+      "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك  ",
 
       "value": "Asia/Baghdad",
 
@@ -139,3 +158,10 @@
   }]
 
 }
+      
+
+
+  
+
+  
+
