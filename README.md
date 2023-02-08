@@ -115,7 +115,7 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 
 - TG_BOT_TOKEN  =  اصنع بوت من بوت فاذر [اضغط هنا](https://t.me/botfather) وانسخ التوكن الخاص به
 
-- Source programmer  =  مـطـور الـسورس  [اضغط هنا] (https://t.me/LSBAX_Dev) 
+- Source_programmer  =  مـطـور الـسورس  [اضغط هنا] (https://t.me/LSBAX_Dev) 
 
 
 ايدي مجموعة الحفظ
