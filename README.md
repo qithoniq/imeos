@@ -135,4 +135,4 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
 
-مـطـور السـورس [اضغط هنا] (https://t.me/LSBAX_Dev)
+] (https://
