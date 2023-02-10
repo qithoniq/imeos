@@ -10,40 +10,33 @@
 
   <b> سـورس ميـوس معتمد على مكتبة ميـوس </b>
 
-</h3
 
+
+<p ali
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
-
-اسهل طريقة للتنصيب على منصة كويب
-
-<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
-
-   اسهل طريقة للتنصيب عبر الضغط على الزر في الاسفل
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/thejmthon/sbb_b0&branch=koyeb&name=jmthon-userbot&run_command=python3%20-m%20sbb_b&env%5BTG_BOT_TOKEN%5D=&env%5BAPP_ID%5D=&env%5BAPI_HASH%5D=&env%5BSTRING_SESSION%5D=&env%5BDATABASE_URL%5D=&env%5BENV%5D=ANYTHING&env%5BPM_LOGGER_GROUP_ID%5D=)
-
-
-<p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
+27
 ## التنصيب على هيروكو 
+28
 
+29
 * ملاحظة: هيروكو ستصبح مدفوعة في تاريخ 28/11/2022
+30
 
+31
 -
+32
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
+33
 احصل على فارات تنصيبك اولا واستخرجهم
+34
 
+35
 - احصل على الفارات يدويا عبر [الضغط هنا](#الفارات).
+36
 
+37
 - اصنع حساب على منصه هيروكو [اضغط هنا](dashboard.heroku.com)
-
-- الان اضغط على الزر بالاسفل للتنصيب
-
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://dashboard.heroku.com/new?template=https://github.com/thejmthon/jmthon))
-
-
-
-     
-## التنصيب محليا 
+38 ## التنصيب محليا 
 
 - sudo apt update && sudo apt upgrade -y
 
@@ -135,4 +128,76 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 <p align="center"><img src="https://i0.wp.com/images.hive.blog/DQmZgGvu6YXrMNyDb4wVURLV14WNNSYs58R1kY64HNMSmCL/hive-didver1.gif"></p>
 
 
+</details>
 
+----
+
+<b><details><summary>Available Features</summary><br>
+
+	| Features |  Availability |
+
+| :------: |  :----------: |
+
+|   Convert     |       ✅     |
+
+|   Database     |       ✅     |
+
+|   Owner     |       ✅    |
+
+|   Islami     |       ✅     |
+
+|   Downloader     |       ✅     |
+
+|   Webzone     |       ✅[      |
+
+|   Searching     |       ✅      |
+
+|   Textpro     |       ✅      |
+
+|   Ephoto     |       ✅     |
+
+|   Anime Web     |       ✅      |
+
+|   Stalker     |       ✅      |
+
+|   Random Text     |       ✅     |
+
+|   Random Image     |       ✅     |
+
+|   Nekos Life     |       ✅      |
+
+|   More Nsfw     |       ✅      |
+
+|   Creator     |       ✅      |
+
+</details>
+
+----
+
+<!-- Contact Owner -->
+
+<b><details><summary>Contact</summary></b>
+
+## ```Connect With Me```
+
+<p align="center">
+
+<a href="https://wa.me/918129624000"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+<a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+
+</p>
+
+</details>
+
+</details><hr>
+
+## Thanks To
+
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+
+* [`Alien-Alfa`](https://github.com/Alien-Alfa)
+
+* [`DGXeon`](https://github.com/DGXeon)
+
+* [`AflahXrd`](https://github.com/qithonqi)
