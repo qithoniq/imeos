@@ -194,10 +194,18 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 
 ## Thanks To
 
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+<a href="https://github.com/qithonqi"><img title="Author" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
+<a href="https://github.com/qithoniq/imeos"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
 
-* [`DGXeon`](https://github.com/DGXeon)
+<a href="https://github.com/qithoniq/imeos/network/members"><img title="Forks" src="https://img.shieldshttps://github.com/qithoniq/imeos?color=54aeff&style=flat-square" /></a>
 
-* [`AflahXrd`](https://github.com/qithonqi)
+<a href="https://github.com/qithoniq/imeos/watchers"><img title="Watching" src="https://github.com/qithoniq/imeos?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+
+
+
+
+
+
+
+
