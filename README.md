@@ -212,7 +212,7 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 
 <h4 align="center">
 
-    Copyright (C) 2022 <a href="https://github.com/thejmthon">JMTHON</a>
+    Copyright (C) 2022 <a href="https://github.com/qithoniq">qithon</a>
 
 </h4>
 
