@@ -198,7 +198,7 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 
 <a href="https://github.com/qithoniq/imeos"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
 
-<a href="https://github.com/qithoniq/imeos/network/members"><img title="Forks" src="https://img.shieldshttps://github.com/qithoniq/imeos?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/qithoniq/imeos/network/members"><img title="Forks" 
 
 <a href="https://github.com/qithoniq/imeos/watchers"><img title="Watching" src="https://github.com/qithoniq/imeos?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
