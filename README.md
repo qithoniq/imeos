@@ -202,6 +202,20 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 
 
 <a href="https://github.com/qithoniq/imeos"><img title="Stars" src="https://img.shields.io/github/stars/qithoniq/imeos?color=54aeff&style=flat-square" /></a>
+# License
+
+<p align="center">
+
+    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="jmthon License">
+
+</p>
+
+<h4 align="center">
+
+    Copyright (C) 2022 <a href="https://github.com/thejmthon">JMTHON</a>
+
+</h4>
+
 
 
 
