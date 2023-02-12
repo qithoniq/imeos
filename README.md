@@ -203,7 +203,7 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 
 <a href="https://github.com/qithoniq/imeos"><img title="Stars" src="https://img.shields.io/github/stars/qithoniq/imeos?color=54aeff&style=flat-square" /></a>
 
-"><img title="Stars" src=
+"><img title="
 
 
 
