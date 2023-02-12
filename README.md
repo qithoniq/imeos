@@ -206,7 +206,7 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 
 <p align="center">
 
-    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="jmthon License">
+    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="qithon License">
 
 </p>
 
