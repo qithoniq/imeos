@@ -194,7 +194,7 @@ STRING_SESSION  =  كود سيشن بابل [اضغط هنا](https://replit.com
 
 ## Thanks To
 
-<a href="https://github.com/qithonqi"><img title="Author" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/qithoniq"><img title="Author" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 
 <a href="https://github.com/qithoniq/imeos"><img title="Stars" src="https://img.shields.io/github/stars/qithoniq/imeos?color=54aeff&style=flat-square" /></a>
 
